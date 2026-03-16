@@ -1,0 +1,7 @@
+{
+  "people": [
+    {"name": "Jon Doe", "courses": ["math1", "pSciComp", "physics1"]},
+    {"name": "Leonardo Da Vinci", "courses": ["math99", "cosmology7"]},
+    {"name": "Mona Lisa", "courses": ["linalg3", "pSciComp"]}
+  ]
+}

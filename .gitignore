@@ -1,5 +1,6 @@
 # project locations
-data/
+data/*
+!data/people.json
 .vscode/
 .DS_Store
 .idea/
