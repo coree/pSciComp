@@ -16,6 +16,8 @@ dynamic = ["version"]
 dependencies = [
     # pin (== or ~= with patches) when developing scripts, minimal (>=) for packages
     "numpy==2.3.5",
+    "pyyaml~=6.0",
+    "python-dotenv~=1.0",
 ]
 
 [tool.hatch.build.targets.wheel]

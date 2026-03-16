@@ -1,5 +1,9 @@
 # project locations
 data/
+.vscode/
+.DS_Store
+.idea/
+
 
 # container binaries
 *.sif

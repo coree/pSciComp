@@ -1,0 +1,8 @@
+# Course identifier to filter people by enrollment
+course: 'pSciComp'
+
+# Key name for the courses field in the people data
+courses: 'courses'
+
+# Output filename for the generated greetings
+output_file: 'greetings.txt'
